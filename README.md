@@ -5,6 +5,10 @@
 
 ###
 
+###
+-->
+
+
 <p align="left">My name is Rohan Murali Nair... and I'm a DevOps Engineer..., from India Currently pursuing my Masters in Computer Science, Special Track of Software Engineering and Green IT from Vrije University and University of Amsterdam....</p>
 
 ###
@@ -66,6 +70,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
--->
