@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">My name is Rohan Murali Nair... and I'm a Masters Student from India Currently pursuing my Masters in Computer Science, Special Track of Software Engineering and Green IT from Vrije University and University of Amsterdam....</p>
+<p align="left">My name is Rohan Murali Nair... and I'm a Softwware Engineer from India Currently pursuing my Masters in Computer Science, Special Track of Software Engineering and Green IT from Vrije University and University of Amsterdam....</p>
 
 ###
 
